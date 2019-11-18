@@ -1,0 +1,23 @@
+html{
+    background-color: darkgoldenrod
+    /*plano de fundo*/
+}
+
+.button {
+    background-color: rgba(29, 28, 28, 0.301); 
+    border: aqua;
+    color: white;
+    padding: 40px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px; 
+    border-radius: 50%;
+    margin-inline-start: 0.45cm;
+    margin-top: 19em;
+    /*botao e suas funcionalidades
+    */
+    
+  }
+
+  .button:hover {background-color: black}/* botao quando mouse esta em cima*/
